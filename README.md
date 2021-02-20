@@ -1,2 +1,2 @@
 # hello-world
-The start of a long, but useful journey.
+The start of a long and joyful journey.
